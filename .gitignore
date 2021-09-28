@@ -1,0 +1,20 @@
+### Исключаем NodeJS module
+node_modules/
+
+.idea/
+.vscode/
+build
+tmp
+src/Configs/pg.json
+src/Configs/my.json
+src/Configs/mysql.json
+src/Configs/redis.json
+src/Configs/general.json
+
+npm-debug.log
+
+src/Configs/MainConfig.prod.js
+src/Configs/pg.prod.json
+src/Configs/MainConfig.ts
+src/Configs/SpConfig.ts
+src/Configs/VendorConfig.ts
